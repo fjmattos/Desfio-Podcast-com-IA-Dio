@@ -7,8 +7,11 @@ Seu objetivo é utilizar Inteligência Artificial em um processo de criação de
 Tecnologias utilizadas no projeto:
 
 https://chatgpt.com/
+
 https://leonardo.ai/
+
 https://elevenlabs.io/
+
 https://www.capcut.com/pt-br/
 
 Como foi feito este projeto:
